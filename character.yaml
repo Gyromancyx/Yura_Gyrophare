@@ -28,6 +28,11 @@ subbanks:
   suffix: A3
   tone_ranges:
   - C1-A3
+- color: Acide
+  prefix: ''
+  suffix: Ac
+  tone_ranges:
+  - C1-B7
 - color: Air
   prefix: ''
   suffix: Ai
@@ -38,13 +43,13 @@ subbanks:
   suffix: Dx
   tone_ranges:
   - C1-B7
+- color: Falsetto
+  prefix: ''
+  suffix: Fa
+  tone_ranges:
+  - C1-B7
 - color: Scream
   prefix: ''
   suffix: S
-  tone_ranges:
-  - C1-B7
-- color: Acide
-  prefix: ''
-  suffix: Ac
   tone_ranges:
   - C1-B7
