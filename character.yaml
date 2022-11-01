@@ -53,3 +53,8 @@ subbanks:
   suffix: S
   tone_ranges:
   - C1-B7
+- color: Sucre
+  prefix: ''
+  suffix: Su
+  tone_ranges:
+  - C1-B7
