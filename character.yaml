@@ -58,3 +58,8 @@ subbanks:
   suffix: Su
   tone_ranges:
   - C1-B7
+- color: Opera
+  prefix: ''
+  suffix: Op
+  tone_ranges:
+  - C1-B7
