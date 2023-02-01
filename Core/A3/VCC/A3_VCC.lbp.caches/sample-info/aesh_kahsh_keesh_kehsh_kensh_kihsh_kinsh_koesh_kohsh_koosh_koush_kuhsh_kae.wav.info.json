@@ -1,0 +1,16 @@
+{
+    "name": "aesh_kahsh_keesh_kehsh_kensh_kihsh_kinsh_koesh_kohsh_koosh_koush_kuhsh_kae.wav",
+    "file": "aesh_kahsh_keesh_kehsh_kensh_kihsh_kinsh_koesh_kohsh_koosh_koush_kuhsh_kae.wav",
+    "sampleRate": 44100.0,
+    "maxSampleRate": 44100,
+    "normalize": false,
+    "normalizeRatio": null,
+    "channels": 1,
+    "length": 418912,
+    "lengthMillis": 9499.138,
+    "chunkSize": 418912,
+    "chunkCount": 1,
+    "hasSpectrogram": true,
+    "lastModified": 1674663849446,
+    "algorithmVersion": 4
+}

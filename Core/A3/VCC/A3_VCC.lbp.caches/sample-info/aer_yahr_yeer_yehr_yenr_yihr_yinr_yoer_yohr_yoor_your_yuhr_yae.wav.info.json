@@ -1,0 +1,16 @@
+{
+    "name": "aer_yahr_yeer_yehr_yenr_yihr_yinr_yoer_yohr_yoor_your_yuhr_yae.wav",
+    "file": "aer_yahr_yeer_yehr_yenr_yihr_yinr_yoer_yohr_yoor_your_yuhr_yae.wav",
+    "sampleRate": 44100.0,
+    "maxSampleRate": 44100,
+    "normalize": false,
+    "normalizeRatio": null,
+    "channels": 1,
+    "length": 394108,
+    "lengthMillis": 8936.689,
+    "chunkSize": 394108,
+    "chunkCount": 1,
+    "hasSpectrogram": true,
+    "lastModified": 1674664024898,
+    "algorithmVersion": 4
+}

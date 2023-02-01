@@ -1,0 +1,16 @@
+{
+    "name": "aer_vahr_veer_vehr_venr_vihr_vinr_voer_vohr_voor_vour_vuhr_vae.wav",
+    "file": "aer_vahr_veer_vehr_venr_vihr_vinr_voer_vohr_voor_vour_vuhr_vae.wav",
+    "sampleRate": 44100.0,
+    "maxSampleRate": 44100,
+    "normalize": false,
+    "normalizeRatio": null,
+    "channels": 1,
+    "length": 410644,
+    "lengthMillis": 9311.655,
+    "chunkSize": 410644,
+    "chunkCount": 1,
+    "hasSpectrogram": true,
+    "lastModified": 1674661065792,
+    "algorithmVersion": 4
+}

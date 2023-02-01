@@ -1,0 +1,16 @@
+{
+    "name": "aey_kahy_keey_kehy_keny_kihy_kiny_koey_kohy_kooy_kouy_kuhy_kae.wav",
+    "file": "aey_kahy_keey_kehy_keny_kihy_kiny_koey_kohy_kooy_kouy_kuhy_kae.wav",
+    "sampleRate": 44100.0,
+    "maxSampleRate": 44100,
+    "normalize": false,
+    "normalizeRatio": null,
+    "channels": 1,
+    "length": 405132,
+    "lengthMillis": 9186.666,
+    "chunkSize": 405132,
+    "chunkCount": 1,
+    "hasSpectrogram": true,
+    "lastModified": 1674660867694,
+    "algorithmVersion": 4
+}

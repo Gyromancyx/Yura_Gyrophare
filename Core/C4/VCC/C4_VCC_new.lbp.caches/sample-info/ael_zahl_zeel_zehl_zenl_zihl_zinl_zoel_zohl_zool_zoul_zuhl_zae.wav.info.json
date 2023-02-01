@@ -1,0 +1,16 @@
+{
+    "name": "ael_zahl_zeel_zehl_zenl_zihl_zinl_zoel_zohl_zool_zoul_zuhl_zae.wav",
+    "file": "ael_zahl_zeel_zehl_zenl_zihl_zinl_zoel_zohl_zool_zoul_zuhl_zae.wav",
+    "sampleRate": 44100.0,
+    "maxSampleRate": 44100,
+    "normalize": false,
+    "normalizeRatio": null,
+    "channels": 1,
+    "length": 431314,
+    "lengthMillis": 9780.363,
+    "chunkSize": 431314,
+    "chunkCount": 1,
+    "hasSpectrogram": true,
+    "lastModified": 1674494402318,
+    "algorithmVersion": 4
+}

@@ -1,0 +1,16 @@
+{
+    "name": "aer_shahr_sheer_shehr_shenr_shihr_shinr_shoer_shohr_shoor_shour_shuhr_shae.wav",
+    "file": "aer_shahr_sheer_shehr_shenr_shihr_shinr_shoer_shohr_shoor_shour_shuhr_shae.wav",
+    "sampleRate": 44100.0,
+    "maxSampleRate": 44100,
+    "normalize": false,
+    "normalizeRatio": null,
+    "channels": 1,
+    "length": 416156,
+    "lengthMillis": 9436.644,
+    "chunkSize": 416156,
+    "chunkCount": 1,
+    "hasSpectrogram": true,
+    "lastModified": 1674663983593,
+    "algorithmVersion": 4
+}

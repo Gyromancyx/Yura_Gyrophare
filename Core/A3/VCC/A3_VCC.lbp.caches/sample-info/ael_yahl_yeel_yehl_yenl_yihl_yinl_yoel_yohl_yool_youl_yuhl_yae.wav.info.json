@@ -1,0 +1,16 @@
+{
+    "name": "ael_yahl_yeel_yehl_yenl_yihl_yinl_yoel_yohl_yool_youl_yuhl_yae.wav",
+    "file": "ael_yahl_yeel_yehl_yenl_yihl_yinl_yoel_yohl_yool_youl_yuhl_yae.wav",
+    "sampleRate": 44100.0,
+    "maxSampleRate": 44100,
+    "normalize": false,
+    "normalizeRatio": null,
+    "channels": 1,
+    "length": 413400,
+    "lengthMillis": 9374.149,
+    "chunkSize": 413400,
+    "chunkCount": 1,
+    "hasSpectrogram": true,
+    "lastModified": 1674664168126,
+    "algorithmVersion": 4
+}

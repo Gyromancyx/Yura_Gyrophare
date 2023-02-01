@@ -1,0 +1,16 @@
+{
+    "name": "aew_kahw_keew_kehw_kenw_kihw_kinw_koew_kohw_koow_kouw_kuhw_kae.wav",
+    "file": "aew_kahw_keew_kehw_kenw_kihw_kinw_koew_kohw_koow_kouw_kuhw_kae.wav",
+    "sampleRate": 44100.0,
+    "maxSampleRate": 44100,
+    "normalize": false,
+    "normalizeRatio": null,
+    "channels": 1,
+    "length": 409266,
+    "lengthMillis": 9280.408,
+    "chunkSize": 409266,
+    "chunkCount": 1,
+    "hasSpectrogram": true,
+    "lastModified": 1674660856981,
+    "algorithmVersion": 4
+}

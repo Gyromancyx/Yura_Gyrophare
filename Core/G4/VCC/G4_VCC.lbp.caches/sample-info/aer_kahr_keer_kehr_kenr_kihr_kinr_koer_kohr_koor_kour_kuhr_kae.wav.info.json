@@ -1,0 +1,16 @@
+{
+    "name": "aer_kahr_keer_kehr_kenr_kihr_kinr_koer_kohr_koor_kour_kuhr_kae.wav",
+    "file": "aer_kahr_keer_kehr_kenr_kihr_kinr_koer_kohr_koor_kour_kuhr_kae.wav",
+    "sampleRate": 44100.0,
+    "maxSampleRate": 44100,
+    "normalize": false,
+    "normalizeRatio": null,
+    "channels": 1,
+    "length": 410644,
+    "lengthMillis": 9311.655,
+    "chunkSize": 410644,
+    "chunkCount": 1,
+    "hasSpectrogram": true,
+    "lastModified": 1674660782292,
+    "algorithmVersion": 4
+}

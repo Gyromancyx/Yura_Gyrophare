@@ -1,0 +1,16 @@
+{
+    "name": "aer_wahr_weer_wehr_wenr_wihr_winr_woer_wohr_woor_wour_wuhr_wae.wav",
+    "file": "aer_wahr_weer_wehr_wenr_wihr_winr_woer_wohr_woor_wour_wuhr_wae.wav",
+    "sampleRate": 44100.0,
+    "maxSampleRate": 44100,
+    "normalize": false,
+    "normalizeRatio": null,
+    "channels": 1,
+    "length": 399620,
+    "lengthMillis": 9061.678,
+    "chunkSize": 399620,
+    "chunkCount": 1,
+    "hasSpectrogram": true,
+    "lastModified": 1674664012900,
+    "algorithmVersion": 4
+}

@@ -1,0 +1,16 @@
+{
+    "name": "aej_kahj_keej_kehj_kenj_kihj_kinj_koej_kohj_kooj_kouj_kuhj_kae.wav",
+    "file": "aej_kahj_keej_kehj_kenj_kihj_kinj_koej_kohj_kooj_kouj_kuhj_kae.wav",
+    "sampleRate": 44100.0,
+    "maxSampleRate": 44100,
+    "normalize": false,
+    "normalizeRatio": null,
+    "channels": 1,
+    "length": 410644,
+    "lengthMillis": 9311.655,
+    "chunkSize": 410644,
+    "chunkCount": 1,
+    "hasSpectrogram": true,
+    "lastModified": 1674660771555,
+    "algorithmVersion": 4
+}

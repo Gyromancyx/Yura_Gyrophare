@@ -1,0 +1,16 @@
+{
+    "name": "aer_lahr_leer_lehr_lenr_lihr_linr_loer_lohr_loor_lour_luhr_lae.wav",
+    "file": "aer_lahr_leer_lehr_lenr_lihr_linr_loer_lohr_loor_lour_luhr_lae.wav",
+    "sampleRate": 44100.0,
+    "maxSampleRate": 44100,
+    "normalize": false,
+    "normalizeRatio": null,
+    "channels": 1,
+    "length": 399620,
+    "lengthMillis": 9061.678,
+    "chunkSize": 399620,
+    "chunkCount": 1,
+    "hasSpectrogram": true,
+    "lastModified": 1674663936964,
+    "algorithmVersion": 4
+}

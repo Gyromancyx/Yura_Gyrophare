@@ -1,0 +1,16 @@
+{
+    "name": "aer_sahr_seer_sehr_senr_sihr_sinr_soer_sohr_soor_sour_suhr_sae.wav",
+    "file": "aer_sahr_seer_sehr_senr_sihr_sinr_soer_sohr_soor_sour_suhr_sae.wav",
+    "sampleRate": 44100.0,
+    "maxSampleRate": 44100,
+    "normalize": false,
+    "normalizeRatio": null,
+    "channels": 1,
+    "length": 391352,
+    "lengthMillis": 8874.195,
+    "chunkSize": 391352,
+    "chunkCount": 1,
+    "hasSpectrogram": true,
+    "lastModified": 1674663971460,
+    "algorithmVersion": 4
+}
