@@ -1,4 +1,4 @@
-﻿name: 詐称音ユラ_Gyrophare
+﻿name: Yura Sashoune_Gyrophare
 text_file_encoding: shift_jis
 image: icon.bmp
 portrait: yura_french.png
@@ -8,58 +8,73 @@ web: twitter.com/gyromancyx |   gyromancy.wixsite.com
 version: Gyrophare
 default_phonemizer: OpenUtau.Plugin.Builtin.FrenchCVVCPhonemizer
 subbanks:
-- color: ''
-  prefix: ''
+- color: ""
+  prefix: ""
   suffix: C5
   tone_ranges:
   - C5-B7
-- color: ''
-  prefix: ''
+- color: ""
+  prefix: ""
   suffix: G4
   tone_ranges:
   - G4-B4
-- color: ''
-  prefix: ''
-  suffix: ''
+- color: ""
+  prefix: ""
+  suffix: ""
   tone_ranges:
   - A#3-F#4
-- color: ''
-  prefix: ''
+- color: ""
+  prefix: ""
   suffix: A3
   tone_ranges:
-  - C1-A3
+  - F#3-A3
+- color: ""
+  prefix: ""
+  suffix: E3
+  tone_ranges:
+  - C1-F3
 - color: Acide
-  prefix: ''
+  prefix: ""
   suffix: Ac
   tone_ranges:
   - C1-B7
 - color: Air
-  prefix: ''
+  prefix: ""
+  suffix: Ai_G4
+  tone_ranges:
+  - G4-B7
+- color: Air
+  prefix: ""
   suffix: Ai
   tone_ranges:
-  - C1-B7
+  - C1-F#4
 - color: Doux
-  prefix: ''
+  prefix: ""
   suffix: Dx
   tone_ranges:
   - C1-B7
 - color: Falsetto
-  prefix: ''
+  prefix: ""
   suffix: Fa
   tone_ranges:
   - C1-B7
+- color: Murmur
+  prefix: ""
+  suffix: Mm
+  tone_ranges:
+  - C1-B7
+- color: Opera
+  prefix: ""
+  suffix: Op
+  tone_ranges:
+  - C1-B7
 - color: Scream
-  prefix: ''
+  prefix: ""
   suffix: S
   tone_ranges:
   - C1-B7
 - color: Sucre
-  prefix: ''
+  prefix: ""
   suffix: Su
-  tone_ranges:
-  - C1-B7
-- color: Opera
-  prefix: ''
-  suffix: Op
   tone_ranges:
   - C1-B7
