@@ -1,0 +1,16 @@
+{
+    "name": "ahjr-ahjr_ahjl-ahjl.wav",
+    "file": "ahjr-ahjr_ahjl-ahjl.wav",
+    "sampleRate": 44100.0,
+    "maxSampleRate": 44100,
+    "normalize": false,
+    "normalizeRatio": null,
+    "channels": 1,
+    "length": 179140,
+    "lengthMillis": 4062.1313,
+    "chunkSize": 179140,
+    "chunkCount": 1,
+    "hasSpectrogram": true,
+    "lastModified": 1690561129687,
+    "algorithmVersion": 4
+}

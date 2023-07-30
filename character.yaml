@@ -10,9 +10,14 @@ default_phonemizer: OpenUtau.Plugin.Builtin.FrenchCVVCPhonemizer
 subbanks:
 - color: ""
   prefix: ""
+  suffix: E5
+  tone_ranges:
+  - E5-B7
+- color: ""
+  prefix: ""
   suffix: C5
   tone_ranges:
-  - C5-B7
+  - C5-D#5
 - color: ""
   prefix: ""
   suffix: G4
@@ -76,5 +81,10 @@ subbanks:
 - color: Sucre
   prefix: ""
   suffix: Su
+  tone_ranges:
+  - C1-B7
+- color: Growl
+  prefix: ""
+  suffix: Gr
   tone_ranges:
   - C1-B7
